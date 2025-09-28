@@ -92,10 +92,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * TensorFlow and Keras documentation
 * AWS documentation for deployment
 
-## Contact
-- Name: Your Name
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/neerajgoud23)
+
 
 ## Future Improvements
 - [ ] Add support for more disease categories
@@ -103,11 +100,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Add mobile application support
 - [ ] Implement real-time classification
 
-## Contribution Guidelines
-1. Fork the repository
-2. Create a new branch
-3. Make your changes
-4. Submit a pull request
+
 
 ## Project Status
 Project is: _in progress_
