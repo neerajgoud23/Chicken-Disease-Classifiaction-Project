@@ -11,6 +11,9 @@ permissions:
   id-token: write
   contents: read
 
+env:
+  AWS_REGION: eu-north-1 # Update this to your AWS region
+
 jobs:
   integration:
     name: Continuous Integration
